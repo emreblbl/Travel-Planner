@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/drawable/arrow_back.xml" value="0.1" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/drawable/back_filled.xml" value="0.1" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/font/alice.xml" value="0.1" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/font/open_sans.xml" value="0.1" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/font/satisfy.xml" value="0.4171875" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/activity_add.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/activity_details.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/activity_edit.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/activity_location.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/activity_main.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/activity_planning.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/addcard_layout.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/card_layout.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/cities_recycler_layout.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/layout/countdown_layout.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/Emre/Downloads/SeyahatPlanlayici/SeyahatPlanlayici/app/src/main/res/mipmap-anydpi-v26/final_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/drawable/arrow_back.xml" value="0.2565" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/drawable/back_filled.xml" value="0.1175" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/font/alice.xml" value="0.4171875" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/font/open_sans.xml" value="0.4171875" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/font/satisfy.xml" value="0.4171875" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/activity_details.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/activity_edit.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/activity_location.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/activity_main.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/activity_planning.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/addcard_layout.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/card_layout.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/layout/cities_recycler_layout.xml" value="0.3432971014492754" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/mipmap-anydpi-v26/final_icon.xml" value="0.2565" />
+        <entry key="..\:/Users/Emre/Downloads/Trip_Planner-master/Trip_Planner-master/app/src/main/res/mipmap-anydpi-v26/final_icon_round.xml" value="0.2565" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3223684210526316" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/drawable/arrow_back.xml" value="0.3141025641025641" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2901709401709402" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/drawable/ic_baseline_explore_24.xml" value="0.3141025641025641" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3223684210526316" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/drawable/icon_background.xml" value="0.3223684210526316" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_add.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_details.xml" value="0.33" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_edit.xml" value="0.27735042735042736" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_location.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_my_trips.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_planning.xml" value="0.22" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/activity_planning2.xml" value="0.25" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/addcard_layout.xml" value="0.25" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/card_layout.xml" value="0.33" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/cities_recycler_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/countdown.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/countdown_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/details_recycle.xml" value="0.5" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/details_recycle_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/dropdownlists.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/dropdowntext.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/explore_layout.xml" value="0.33" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/exrecycler_layout.xml" value="0.33" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/flights_recycler_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/hotels_recycler_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/mytrips_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/newplan_calendar.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/newplan_categories.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/newplan_destination.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/newplan_name.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/newplan_nextbutton.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/newplan_viewholder.xml" value="0.30085470085470084" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/layout/settings_layout.xml" value="0.11296296296296296" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/mipmap-anydpi-v26/final_icon.xml" value="0.18162393162393162" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19145299145299147" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19145299145299147" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/mipmap-anydpi-v26/icon.xml" value="0.3223684210526316" />
+        <entry key="..\:/zsanett/testapp/app/src/main/res/mipmap-anydpi-v26/icon_round.xml" value="0.19649122807017544" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

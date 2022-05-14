@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/final_icon_foreground"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/final_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAKcKYNSmHoPRrFm4oLerrx1nV_0yamz38"/>
+        <activity
+            android:name=".LocationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddActivity"
+            android:exported="true" />
+        <activity
+            android:name=".detailsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".EditActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ExploreActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CountdownActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PlanningActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
